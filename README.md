@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Gokul+D+👋;BSc+Electronics+with+AI;IoT+Builder+%7C+Embedded+Explorer;Building+the+physical+web!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD¢er=true&vCenter=true&width=435&lines=Hey+there!+I'm+Gokul+D+👋;BSc+Electronics+with+AI;IoT+Builder+%7C+Embedded+Explorer;Building+the+physical+web!" alt="Typing SVG" />
 
 # Hi, I'm Gokul D 👋
 
 **BSc Electronics with AI · IoT Builder · Embedded Systems Explorer**
 
-📍 Thiruvallur, Tamil Nadu, India | 🏫 DRBCCC Hindu College, Pattabiram
+📍 Thiruvallur, Tamil Nadu, India  |  🏫 DRBCCC Hindu College, Pattabiram
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gokul_D-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gokul-electner)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gokul-electner.gokul-electner)
